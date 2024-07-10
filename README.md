@@ -16,7 +16,7 @@
 - 
 
 ### 🎓 Formação Acadêmica:
-- Cursando Engenharia de Software na Anhanguera.
+- Cursando Engenharia de Software.
 
 ### 💡 Objetivos para 2024:
 - 📈 Iniciar minha carreira profissional.
