@@ -1,9 +1,28 @@
-👋 Hi, I’m @blaas-dev
+✨ Olá, sou @blaas-dev
 
-- 👀 I’m interested in web and mobile development, particularly in building modern, responsive applications.
-- 🌱 I’m currently learning ReactJS, React Native, NodeJS, JavaScript, TypeScript, HTML, and CSS.
-- 💞️ I’m looking to collaborate on open-source projects and innovative applications that can make a difference.
-- 📫 How to reach me: You can reach me via email at gabrielblaasdev.job@gmail.com or connect with me on LinkedIn at linkedin.com/in/blaas-dev.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and often participate in coding challenges and hackathons.
+- 🌍 Natural de Pelotas, com 22 anos de idade.
+- 💼 Atualmente, estou estudando Engenharia de Software pela faculdade Anhanguera.
+- 🚀 Buscando constantemente aprimorar minhas habilidades e alcançar meus sonhos no mundo do desenvolvimento.
+
+### 📚 Atualmente estudando:
+- ReactJS
+- React Native
+- NodeJS
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- PHP
+- 
+
+### 🎓 Formação Acadêmica:
+- Cursando Engenharia de Software na Anhanguera.
+
+### 💡 Objetivos para 2024:
+- 📈 Iniciar minha carreira profissional.
+- 🧩 Desenvolver projetos completos e desafiadores.
+- 💙 Expandir minha rede de contatos e conhecer novas pessoas do setor.
+
+### 🌐 Links Úteis:
+- 📫 [Linkedin](http://linkedin.in/blaas-dev)
 
