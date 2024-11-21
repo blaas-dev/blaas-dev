@@ -13,7 +13,7 @@ Me chamo Gabriel Dos Santos Blaas, tenho 22 anos e sou natural do Rio Grande do 
             src="https://custom-icon-badges.demolab.com/github/stars/blaas-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/blaas-deev?tab=followers">
+    <a href="https://github.com/blaas-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
