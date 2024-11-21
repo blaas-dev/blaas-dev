@@ -3,7 +3,7 @@
 ## Salve Nação, eu sou a Gabriel Blaas, criador de conteúdo de programação e amante da tecnologia!
 
 
-Me chamo Gabriel Dos Santos Blaas, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologi e também mostro o dia a dia no Instagram, com o perfil chamado "[Blaas.dev](https://www.instagram.com/blaas.dev)".
+Me chamo Gabriel Dos Santos Blaas, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia e também mostro o dia a dia no Instagram, com o perfil chamado "[Blaas.dev](https://www.instagram.com/blaas.dev)".
 
 <p align="left">
     <a href="https://github.com/blaas?tab=repositories&sort=stargazers">
